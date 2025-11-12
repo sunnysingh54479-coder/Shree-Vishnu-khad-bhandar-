@@ -52,7 +52,7 @@ slogan-banner {
 .slogan-text {
   font-size: 18px;
   font-weight: bold;
-  color: #000000;
+  color: #FFFFFF;
   text-align: center;
   line-height: 1.6;
   animation: float 6s ease-in-out infinite;
@@ -125,7 +125,7 @@ header h3 {
 }
 
 .product-card p {
-  color: #000000;
+  color: #FFFFFF;
   font-weight: bold;
 }
 footer {
@@ -138,3 +138,4 @@ footer {
   box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* halki shadow for depth */
   border-radius: 8px; /* thoda rounded corner */
 }
+
